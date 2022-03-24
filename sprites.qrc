@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sprites/bomb.png</file>
+        <file>Sprites/softBlock.png</file>
+        <file>Sprites/solidBlock.png</file>
+        <file>Sprites/walk.png</file>
+        <file>Sprites/explotion.png</file>
+        <file>Sprites/MusicInGame.mp3</file>
+        <file>Sprites/Bomb.mp3</file>
+        <file>Sprites/enemy1.png</file>
+        <file>Sprites/door.png</file>
+    </qresource>
+</RCC>
